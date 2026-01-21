@@ -43,7 +43,7 @@ Predict.fun Trading Bot — это автоматизированный торг
 ### 4.1 Необходимые данные
 Для работы Сервиса вы предоставляете:
 - API ключ от Predict.fun
-- Private Key вашего криптокошелька
+- Private Key вашего Privy Wallet
 - Адрес Smart Wallet
 
 ### 4.2 Ответственность за ключи
